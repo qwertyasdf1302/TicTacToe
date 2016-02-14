@@ -14,4 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-</projectDescription>
+</TicTacToe is a game in which two player put markers into slots of a board and whoever gets to three in a row whether diagonal, horizontal, or vertical wins.>
